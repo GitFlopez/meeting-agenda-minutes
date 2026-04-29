@@ -1,0 +1,10 @@
+{
+  "name": "meeting-agenda-minutes",
+  "version": "1.0.0",
+  "description": "ClawHub skill: meeting-agenda-minutes",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "productivity"
+  }
+}
